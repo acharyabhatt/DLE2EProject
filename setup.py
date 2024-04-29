@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "DLEndtoEndProject"
 AUTHOR_USER_NAME = "acharyabhatt"
-SRC_REPO = "DL - Image Classification"
+SRC_REPO = "imageClassification"
 AUTHOR_EMAIL = "abarpanacharyabhatt@gmail.com"
 
 
